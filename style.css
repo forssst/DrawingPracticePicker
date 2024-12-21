@@ -1,0 +1,34 @@
+html {
+    box-sizing: border-box;
+  }
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+
+
+  .body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 900px;
+  }
+
+  .container {
+
+    display: flex;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .box {
+    padding: 20px;
+    margin: 20px;
+    font-size: 48px;
+  }
+
+  .button {
+    color: black;
+  }
